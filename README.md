@@ -1,5 +1,9 @@
-# Exemplo de API Flask
+# Example of a Flask API
 
 ## API
 
-Flask roda no endereço `http://localhost:5000/`
+Flask runs at `http://localhost:5000/`
+
+## Running
+
+FLASK_APP=dont_panic.py flask run
